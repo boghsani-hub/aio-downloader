@@ -7,6 +7,102 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/29 02:12
+---
+
+## VahidOOnLine — post 240876
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240876_1779144170.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+لیندزی گراهام، سناتور جمهوری‌خواه، در ایکس نوشت: «همان‌طور که پیش‌تر گفته‌ام، هر توافقی که میان آمریکا و جمهوری اسلامی حاصل شود باید برای تایید به کنگره ارائه شود؛ همان‌طور که در مورد برجام نیز چنین شد.»
+سناتور گراهام گفت: «اگر بتوانیم از طریق ابزارهای دیپلماتیک به درگیری پایان دهیم و به اهداف امنیت ملی خود دست یابیم، این یک دستاورد بزرگ خواهد بود.»
+
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240875
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240875_1779144171.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️دونالد ترامپ، رئیس‌جمهوری آمریکا، دوشنبه شب ۲۸ اردیبهشت در پاسخ به سوال خبرنگاران گفت چند کشور منطقه، از جمله قطر، عربستان سعودی و امارات متحده عربی، در حال گفتگو با آمریکا و جمهوری اسلامی ایران هستند و احتمال رسیدن به توافق وجود دارد.
+ترامپ گفت: «این سه کشور، به‌علاوه چند کشور دیگر، با من تماس گرفتند و آن‌ها مستقیما با مقام‌های ما و در حال حاضر با تهران در تماس هستند. به نظر می‌رسد احتمال بسیار خوبی وجود دارد که بتوانند به یک توافق برسند.»
+رئیس‌جمهوری آمریکا همچنین با تاکید بر اینکه ارتش ایالات متحده بزرگترین ارتش جهان است و اجازه نخواهد داد ایران به سلاح هسته‌ای دست یابد، افزود: «اگر بتوانیم بدون اینکه آن‌ها را به‌شدت بمباران کنیم به نتیجه برسیم، بسیار خوشحال خواهم شد.»
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 11616
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+۲۶ روز مانده تا تولد دونالد ترامپ خردادی دوست داشتنی ۱۴ ژوئن ۲۰۲۶ (۲۴ خرداد ۱۴۰۵) تهران میگیریم ؟ 😬
+@withyashar
+</div>
+
+## WithYashar — post 11614
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانال ۱۲ اسرائیل: ترامپ به اسرائیل اطلاع داد که تاخیر در حمله به ایران تنها دو تا سه روز است. @withyashar
+</div>
+
+## WithYashar — post 11613
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانال ۱۲ اسرائیل: ترامپ به اسرائیل اطلاع داد که تاخیر در حمله به ایران تنها دو تا سه روز است.
+@withyashar
+</div>
+
+## FoxNewsTwitter — post 341909
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341909_1779144172.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: Former LAPD Detective Mark Fuhrman, who discovered the bloody glove in the O.J. Simpson murder case and was convicted of lying on the witness stand back in 1994, has died at the age of 74.
+</div>
+
+## IranIntlTV — post 337850
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/337850" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی سیاست با مراد ویسی: لغو حمله در آخرین لحظه
+@iranintlTV
+</div>
+
+## IranIntlTV — post 337849
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337849_1779144173.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+لیندزی گراهام، سناتور جمهوری‌خواه، در ایکس نوشت: «همان‌طور که پیش‌تر گفته‌ام، هر توافقی که میان آمریکا و جمهوری اسلامی حاصل شود باید برای تایید به کنگره ارائه شود؛ همان‌طور که در مورد برجام نیز چنین شد.»
+سناتور گراهام گفت: «اگر بتوانیم از طریق ابزارهای دیپلماتیک به درگیری پایان دهیم و به اهداف امنیت ملی خود دست یابیم، این یک دستاورد بزرگ خواهد بود.»
+
+https://iranintl.com/202605183437
+</div>
+
+## FarsiVOA — post 218100
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️ترامپ: حمله نظامی برنامه‌ریزی شده سه‌شنبه به جمهوری اسلامی را به درخواست متحدان به تعویق انداختم
+@FarsiVOA
+</div>
+
+---
 📅 بروزرسانی: 1405/02/29 02:02
 ---
 
