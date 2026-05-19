@@ -7,6 +7,146 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/29 23:13
+---
+
+## VahidOOnLine — post 241040
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_241040_1779219801.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تماسی تلخ از دل ایران:
+«می‌گفت در پتروشیمی تعدیل شده…
+و برای تأمین هزینه‌های زندگی حتی به رحم اجاره‌ای فکر می‌کنه
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 241039
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_241039_1779219803.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رجب طیب اردوغان، رییس‌جمهور ترکیه، در تماس تلفنی با اورسولا فون در لاین، رییس کمیسیون اروپا، تاکید کرد که تنگه هرمز باید هرچه سریع‌تر بازگشایی شود و آنکارا برای حفظ آتش‌بس و دستیابی به صلح در درگیری‌های جاری منطقه تلاش می‌کند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## IranIntlTV — post 337988
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337988_1779219804.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+رجب طیب اردوغان، رییس‌جمهور ترکیه، در تماس تلفنی با اورسولا فون در لاین، رییس کمیسیون اروپا، تاکید کرد که تنگه هرمز باید هرچه سریع‌تر بازگشایی شود و آنکارا برای حفظ آتش‌بس و دستیابی به صلح در درگیری‌های جاری منطقه تلاش می‌کند.
+https://iranintl.com/202605192411
+</div>
+
+## ManotoTV — post 105659
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105659_1779219804.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تماسی تلخ از دل ایران:
+«می‌گفت در پتروشیمی تعدیل شده…
+و برای تأمین هزینه‌های زندگی حتی به رحم اجاره‌ای فکر می‌کنه
+</div>
+
+## FarsiVOA — post 218163
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️کمیته نیروهای مسلح مجلس نمایندگان آمریکا روز سه‌شنبه ۲۹ اردیبهشت یک جلسه استماع را با حضور دریابد برد کوپر، فرمانده سنتکام، ژنرال داگوین اندرسون، فرمانده آفریکام، و دانیل زیمرمن، معاون وزیر جنگ در امور امنیت بین‌الملل، برگزار کرد. صدای آمریکا این جلسه را با ترجمه همزمان پژواک کیومرثی پخش کرد.
+
+@FarsiVOA
+</div>
+
+## FarsiVOA — post 218162
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️روایت اقلیم کردستان عراق از اتهامات جدید جمهوری اسلامی؛ قاچاق سلاح یا توجیه بمباران؟
+@FarsiVOA
+</div>
+
+## Persian_Trend_Official — post 14490
+
+<div align="center">
+  <img src="telegram/content/Persian_Trend_Official_14490_1779219807.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ قاتل الهه حسین زاده با اذان صبح فردا اعدام می‌شود.
+
+استوری خواهر الهه: امشب، قصاص مرهم داغ خواهرم نمی شود... اما شاید کمی از بی عدالتی این دنیا کم کند. الهه جانم...
+
+📝 Nick
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 20410
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴کارشناس صدا‌و‌سیما:
+
+وقتی ترامپ میگه میخواهیم حمله کنیم، حمله نمی‌کنه.
+ولی وقتی میگه داریم مذاکره می‌کنیم ، می‌خواد حمله کنه.
+
+@IranianMinds
+</div>
+
+## BBCPersian — post 281540
+
+<div align="center">
+  <a href="telegram/content/BBCPersian_281540_1779219807.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻آخرین خبرهای مهم روز سه‌شنبه ۲۹ اردیبهشت ۱۴۰۵
+
+@BBCPersian
+</div>
+
+## Hranews — post 113049
+
+<div align="center">
+  <img src="telegram/content/Hranews_113049_1779219810.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بر اساس گزارش «میان موشک و سرکوب»؛ روند زمانی حملات نظامی اخیر نشان می‌دهد که در ۲۴ ساعت نخست مخاصمات، نیروهای ایالات متحده بیش از ۱٬۰۰۰ هدف و اسرائیل نیز ۷۵۰ هدف را در ایران مورد حمله قرار داده‌اند.
+
+بر اساس این گزارش، در نخستین روز حملات (۹ اسفند ۱۴۰۴)، ۷۰۱ رویداد ثبت شده و بالاترین میزان در ۱۵ اسفند با ثبت ۷۳۴ رویداد در یک روز رخ داده است. در مجموع، تا پایان ۳۸ روز درگیری، حدود ۱۳٬۰۰۰ هدف مورد حمله قرار گرفته است.
+
+📎 گزارش را به زبان فارسی مطالعه کنید
+
+📎 دانلود مستقیم فایل پی دی اف فارسی از تلگرام
+
+📎 Complete report in English
+
+📎Direct download of the English PDF
+
+↘️
+@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑
+</div>
+
+## manototv — post 105659
+
+<div align="center">
+  <a href="telegram/content/manototv_105659_1779219811.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تماسی تلخ از دل ایران:
+«می‌گفت در پتروشیمی تعدیل شده…
+و برای تأمین هزینه‌های زندگی حتی به رحم اجاره‌ای فکر می‌کنه
+</div>
+
+---
 📅 بروزرسانی: 1405/02/29 23:03
 ---
 
