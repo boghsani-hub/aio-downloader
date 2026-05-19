@@ -7,6 +7,34 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/30 03:03
+---
+
+## FoxNewsTwitter — post 341968
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341968_1779233600.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+"Either MAGA extremists are going to break the country, or we're going to break them."
+
+House Minority Leader Hakeem Jeffries lays out what he says is the Democratic strategy against the MAGA movement — not just to defeat them in elections, but to "break their spirit” over what he described as "unacceptable" extremism.
+</div>
+
+## FoxNewsTwitter — post 341967
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341967_1779233603.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH LIVE: President Trump speaks at Congressional Picnic on White House South Lawn https://twitter.com/i/broadcasts/1pKkOylkjjEKj
+</div>
+
+---
 📅 بروزرسانی: 1405/02/30 02:53
 ---
 
