@@ -7,6 +7,33 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/29 12:52
+---
+
+## IranIntlTV — post 337897
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337897_1779182545.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مدیرکل دفتر بهبود تغذیه وزارت بهداشت با اشاره به ادامه آموزش «تغذیه ارزان‌قیمت» گفت خانواده‌ها با استفاده از جایگزین‌های غذایی تلاش می‌کنند حداقل کالری و پروتئین مورد نیاز خود را تامین کنند. او همچنین گفت حدود ۵ درصد کودکان زیر ۵ سال در ایران دچار کوتاه‌قدی ناشی از سوءتغذیه هستند.
+گفت‌وگو با بابک خطی، پزشک و متخصص کودکان
+@iranintltv
+</div>
+
+## alonews — post 121037
+
+<div align="center">
+  <a href="telegram/content/alonews_121037_1779182546.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈منبع نظامی ایرانی به خبرگزاری ریانووستی: ایران تاکتیک‌های جدید مبتنی بر «دکترین دفاعی تهاجمی» آماده کرده و هیچ مشکلی برای دفاع از کشور ندارد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/29 12:42
 ---
 
