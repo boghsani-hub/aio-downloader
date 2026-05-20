@@ -7,6 +7,363 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/30 17:23
+---
+
+## VahidOOnLine — post 241146
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_241146_1779285229.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ پلنگ جوان ایرانی در پناهگاه «کم‌کی» یزد دیده شد
+
+♦️تصاویر تازه ثبت‌شده از حضور یک پلنگ جوان در پناهگاه حیات‌وحش کم‌کی شهرستان بهاباد، بار دیگر اهمیت زیستگاه‌های طبیعی استان یزد در حفظ گونه‌های ارزشمند حیات‌وحش را نشان داد.
+پلنگ ایرانی که یکی از گونه‌های در معرض تهدید به شمار می‌رود، در سال‌های اخیر به‌ندرت در برخی مناطق مرکزی ایران مشاهده شده و ثبت این تصویر می‌تواند نشانه‌ای امیدوارکننده از پویایی حیات‌وحش و امنیت نسبی زیستگاه‌های منطقه باشد.
+فعالان محیط‌زیست معتقدند حفاظت از منابع طبیعی، جلوگیری از شکار غیرمجاز و تامین امنیت زیستگاه‌ها نقش مهمی در بقای این گونه ارزشمند دارد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 241145
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_241145_1779285232.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️انتشار ویدیویی از سوی ایتامار بن‌گویر، وزیر امنیت ملی اسرائیل، که در آن خدمه بازداشت‌شده ناوگان کمک‌رسانی «صمود» به غزه تحقیر می‌شوند، موجی از انتقادها را برانگیخت. بن‌گویر با انتشار این ویدیو در شبکه ایکس نوشت: «به اسرائیل خوش آمدید.»
+
+گیدئون سعار، وزیر امور خارجه اسرائیل، با لحنی تند به این اقدام واکنش نشان داد و خطاب به بن‌گویر گفت: «تو در این نمایش شرم‌آور عمدا به کشور آسیب رساندی. تو زحمات بزرگ و موفقیت‌آمیز افراد زیادی، از سربازان ارتش تا کارکنان وزارت خارجه را به باد دادی. خیر، تو نماد و چهره اسرائیل نیستی.»
+
+در مقابل، بن‌گویر با دفاع از رفتار خود پاسخ داد: «برخی در دولت هنوز نمی‌دانند با حامیان تروریسم چطور رفتار کنند. از وزیر خارجه انتظار می‌رود درک کند که اسرائیل دیگر یک طعمه آسان و ضعیف نیست. هر کس برای حمایت از تروریسم و همبستگی با حماس به خاک ما بیاید، سیلی خواهد خورد و ما دیگر آن طرف صورت خود را جلو نمی‌آوریم.»
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 241144
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_241144_1779285235.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+محمدباقر قالیباف، رییس مجلس، در سومین پیام صوتی با اشاره به گذشت یک ماه از آتش‌بس گفت: «تحرکات آشکار و پنهان دشمن نشان می‌دهد که به موازات فشارهای اقتصادی و سیاسی از اهداف نظامی خود دست نکشیده و به دنبال دور جدیدی از جنگ و ماجراجویی جدید است.»
+او افزود: «ما از فرصت آتش‌بس به بهترین شکل برای بازسازی توان نظامی استفاده کردیم و امروز از چنان آمادگی برخورداریم که دشمن را شگفت‌زده خواهیم کرد.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 241143
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_241143_1779285236.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ سلطان الجابر، مدیرعامل شرکت ملی نفت ابوظبی (ADNOC)، روز چهارشنبه ۳۰ اردیبهشت، اعلام کرد که این کشور برنامه‌های خود را برای احداث یک خط لوله جدید با هدف دور زدن تنگه هرمز پیش برده و این پروژه اکنون به پیشرفت ۵۰ درصدی رسیده است.
+
+در حال حاضر، خط لوله فعال امارات، خط لوله نفت «حبشان-فجیره» است که از میادین نفتی حبشان در جنوب غربی ابوظبی آغاز شده و به بندر فجیره در دریای عمان منتهی می‌شود.
+
+این خط لوله در حال حاضر روزانه تا ۱.۸ میلیون بشکه نفت را منتقل می‌کند؛ با این حال، پایانه نفتی فجیره از زمان آغاز جنگ، چندین بار هدف حملات پهپادی جمهوری اسلامی قرار گرفته است. انتظار می‌رود با راه‌اندازی خط لوله جدید تا سال آینده، ظرفیت کل صادرات نفت امارات از این مسیر به دو برابر افزایش یابد. با این‌حال الجابر تاکید کرد که دست‌کم چهار ماه طول می‌کشد که این شرکت بتواند به ظرفیت ۸۰درصد جریان نفت پیش از جنگ برسد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 11755
+
+<div align="center">
+  <a href="telegram/content/WithYashar_11755_1779285237.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ : نتانیاهو هر کاری که من بخوام انجام میده . من الان ۹۹٪ اسرائیلی هستم. می‌تونم برای نخست‌وزیری کاندید بشم، پس شاید بعد از انجام این کار، به اسرائیل برم و برای نخست‌وزیری کاندید بشم.
+@withyashar
+</div>
+
+## mwarmonitor — post 9345
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇸🇦وزیر خارجه عربستان سعودی:
+
+🔸پادشاهی عربستان سعودی از تصمیم رئیس‌جمهور آمریکا، دونالد ترامپ، برای دادن فرصت به دیپلماسی جهت دستیابی به یک توافق قابل‌قبول برای پایان دادن به جنگ، و بازگرداندن امنیت و آزادی کشتیرانی در تنگه هرمز به وضعیت پیش از ۲۸ فوریه ۲۰۲۶، و نیز رسیدگی به تمامی نقاط اختلاف به شکلی که در خدمت امنیت و ثبات منطقه باشد، به‌طور بسیار مثبت قدردانی می‌کند.
+
+🔸همچنین عربستان سعودی از تلاش‌های میانجی‌گرانه جاری پاکستان در این زمینه نیز قدردانی می‌کند. عربستان امیدوار است ایران از این فرصت استفاده کند تا از پیامدهای خطرناک تشدید تنش‌ها جلوگیری کرده و به‌طور فوری به تلاش‌ها برای پیشبرد مذاکراتی که به یک توافق جامع برای دستیابی به صلح پایدار در منطقه و جهان منجر می‌شود، پاسخ دهد.
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 9344
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ می‌گوید نخست‌وزیر اسرائیل، نتانیاهو، درباره ایران «هر کاری که من بخواهم انجام خواهد داد».
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341984
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341984_1779285240.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: President Trump jokes that he could run for Prime Minister of Israel after his current term since he's so well-liked there.
+
+"Maybe after I do this I'll go to Israel and run for prime minister. I had a poll this morning, I'm 99%."
+</div>
+
+## pm_afshaa — post 91108
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_91108_1779285242.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ: از نتانیاهو هر کاری بخوام درباره ایران انجام میده.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91107
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_91107_1779285243.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴دونالد ترامپ: من عجله‌ای ندارم، همه میگن انتخابات میان‌دوره‌ای و اینا، ولی من برای جنگ اصلاً عجله ندارم.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91106
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_91106_1779285246.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ: الان تو اسرائیل 99 درصد طرفدار دارم و میتونم برای نخست‌وزیری کاندید شم؛ شاید بعد این ماجرا برم اسرائیل واسه نخست‌وزیری.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91105
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_91105_1779285248.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴عباس عراقچی: هر جا لازم باشه بجنگیم می‌جنگیم و هر جا لازم باشه مذاکره کنیم مذاکره می‌کنیم.
+
+‌
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 91104
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_91104_1779285249.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴قالیباف: رئیس جمهور آمریکا بین دو گزینه دچار تردید است اولین گزینه اولویت دادن به پایان جنگ است که هزینه های آن را بعنوان بازنده جنگ بدهد و دومین گزینه شروع مجدد جنگ یا ادامه محاصره دریایی برای فشار و مجبور کردن ایران به پذیرش تسلیم است. واقعیت این است که رصد دقیق شرایط آمریکا این احتمال را تقویت می کند آنها هنوز به تسلیم شدن ملت ایران امیدوار هستند و به غلط فکر می کند که می توانند با تداوم محاصره و فشاراقتصادی از یک طرف و تشدید فشار در میدان نظامی و به راه انداختن دور جدیدی از حملات، ایران را مجاب کنند تا در میدان دیپلماسی به زیاده خواهی های آنان پاسخ مثبت دهد.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## iaghapour — post 2621
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ اعتراف رسمی دولت: ۷۰ درصد مطالبات مردم، رفع محدودیت‌های اینترنت است
+
+معاون اجرایی رئیس‌جمهور صراحتاً اعلام کرد که طبق نظرسنجی‌های نهاد ریاست‌جمهوری، بیش از ۷۰ درصد گلایه‌ها و خواسته‌های مردم به محدودیت‌های اینترنت مربوط می‌شود. او تأکید کرد که سیاست پایدار کشور نباید بر مبنای فیلترینگ باشد.
+
+نکات کلیدی سخنان معاون رئیس‌جمهور درباره وضعیت اینترنت:
+
+🔹 تصمیمات اضطراری باید تمام شوند: محدودیت‌های اخیر به دلیل شرایط خاص امنیتی و جنگی بوده، اما تصمیمات دوران اضطرار نباید دائمی شوند و سیاست پایدار کشور نمی‌تواند بر محدودسازی بنا شود.
+
+🔸 اعتراف به شکست فیلترینگ: تجربه عملی نشان داد محدودیت‌های فراگیر ارتباطی به نتایج مورد انتظار منجر نشده و استفاده گسترده از فیلترشکن‌ها اثربخشی این محدودیت‌ها را از بین برده است.
+
+🔹 حق آگاهی مردم: اعتماد عمومی مهم‌ترین سرمایه است و مردم حق دارند بدانند محدودیت‌ها بر چه مبنایی اعمال می‌شود، چه دامنه‌ای دارد و تا چه زمانی ادامه خواهد داشت.
+
+به گفته قائم‌پناه، کشور به یک تفاهم ملی در حوزه ارتباطات نیاز دارد؛ چرا که آینده ایران متصل و فناورانه است و دسترسی پایدار به اینترنت، پیش‌شرط تحقق این آینده خواهد بود./ زومیت
+
+🆔 @iaghapour
+</div>
+
+## IranIntlTV — post 338084
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_338084_1779285250.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+محمدباقر قالیباف، رییس مجلس، در سومین پیام صوتی با اشاره به گذشت یک ماه از آتش‌بس گفت: «تحرکات آشکار و پنهان دشمن نشان می‌دهد که به موازات فشارهای اقتصادی و سیاسی از اهداف نظامی خود دست نکشیده و به دنبال دور جدیدی از جنگ و ماجراجویی جدید است.»
+او افزود: «ما از فرصت آتش‌بس به بهترین شکل برای بازسازی توان نظامی استفاده کردیم و امروز از چنان آمادگی برخورداریم که دشمن را شگفت‌زده خواهیم کرد.»
+https://iranintl.com/202605209885
+</div>
+
+## FarsiVOA — post 218221
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_218221_1779285251.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کشورهای میانجی می‌گویند مذاکرات میان آمریکا و ایران به زمان بیشتری نیاز دارد. در میدان پرسیدیم اگر در نهایت توافقی در کار نباشد، با چه سناریوهایی رو‌به‌رو می‌شویم و هر طرف چه برگ‌های برنده‌ای دارد؟
+</div>
+
+## IranianMinds — post 20437
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_20437_1779285253.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ:
+
+«الان توی اسرائیل ۹۹٪ محبوبیت دارم. شاید برای نخست‌وزیری هم کاندید بشم، پس ممکنه بعد از این کار برم اسرائیل و برای نخست‌وزیری نامزد بشم.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20436
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴مهدی رسولی( مداح):
+
+به من لقب موشک هایپر‌سونیک دادند.
+
+لانچر هم حتما سعید طوسی😂😂
+
+@IranianMinds
+</div>
+
+## BBCPersian — post 281616
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻نیروی دریایی سپاه: تردد از تنگه هرمز با کسب هماهنگی ما در حال انجام است
+
+🔻روابط عمومی نیروی دریایی سپاه پاسداران در اطلاعیه‌ای اعلام کرد که «طی شبانه روز گذشته ۲۶ فروند کشتی اعم از نفتکش، کانتینر بر و سایر کشتی‌های تجاری با هماهنگی و تامین امنیت نیروی دریایی سپاه از تنگه هرمز عبور کردند.»
+
+در این اطلاعیه تاکید شده است که «تردد از تنگه هرمز با کسب مجوز و با هماهنگی نیروی دریایی سپاه در حال انجام است.»
+
+با شروع جنگ آمریکا و اسرائیل علیه ایران، تهران عملا تنگه هرمز را بست و عبور و مرور از این آبراه حیاتی به‌شدت محدود شد. سپس آمریکا محاصره دریایی و فشار بر بنادر ایران را آغاز کرد. در نتیجه تعداد زیادی نفتکش هفته‌ها در خلیج فارس گیر افتادند و فقط برخی از آن‌ها بعدا از مسیرهای مورد تایید ایران عبور کردند.
+
+داده‌های کشتیرانی شرکت‌های ال‌اس‌ای‌جی و کپلر نشان داد که سه نفتکش غول‌پیکر امروز در حال عبور از تنگه هرمز به مقصد بازارهای آسیایی بودند؛ نفتکش‌هایی که بیش از دو ماه در خلیج فارس با حدود شش میلیون بشکه نفت خام خاورمیانه معطل مانده بودند.
+
+هم‌زمان گزارش‌ها حاکیست که یک نفتکش دیگر نیز وارد تنگه هرمز شده است و قصد عبور از این آبراه را دارد.
+
+https://bbc.in/3RgsPf3
+@BBCPersian
+</div>
+
+## alonews — post 121321
+
+<div align="center">
+  <a href="telegram/content/alonews_121321_1779285255.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: رژیم ایران رو عوض کردم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121320
+
+<div align="center">
+  <a href="telegram/content/alonews_121320_1779285255.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈خبرنگار : درباره جنگ ایران چی میگید؟
+
+
+🔴ترامپ : بذار اینجوری بگم شما تو ویتنام ۱۹ سال بودید،جنگ جهانی دوم ۴ سال بود
+
+- من ۳ ماهه درگیرم، خیلیاش هم آتش‌بس بوده. تو دو جنگ،ونزوئلا و اینجا، ما ۱۳ نفر از دست دادیم
+- تو جنگ‌های دیگه صدها هزار نفر کشته دادید. ما عملاً ونزوئلا رو گرفتیم تقریباً هم ایران رو گرفتیم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121319
+
+<div align="center">
+  <a href="telegram/content/alonews_121319_1779285259.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: به ایران فرصت میدم فکر کنه
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121318
+
+<div align="center">
+  <a href="telegram/content/alonews_121318_1779285259.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: اگر عیسی مسیح پایین می آمد و رای ها را می شمرد ، من در کالیفرنیا برنده می شدم اما این یک انتخابات تقلبی است.‌‌
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121317
+
+<div align="center">
+  <a href="telegram/content/alonews_121317_1779285259.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: وقتی پرونده ایران را مطالعه می‌کنم اصلا به انتخابات میان دوره‌ای فکر نمی‌کنم و برای رسیدن به توافق عجله ندارم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121316
+
+<div align="center">
+  <a href="telegram/content/alonews_121316_1779285260.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: امروز خشم زیادی در ایران وجود دارد زیرا استاندارد زندگی بد است‌‌
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121315
+
+<div align="center">
+  <a href="telegram/content/alonews_121315_1779285260.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴فوری/ترامپ: برا جنگ عجله ندارم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/30 17:14
 ---
 
