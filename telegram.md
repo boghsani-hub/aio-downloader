@@ -7,6 +7,236 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/30 20:04
+---
+
+## VahidOOnLine — post 241180
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_241180_1779294849.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+در پی تیراندازی افراد مسلح به نیروهای پلیس در یکی از محورهای شهرستان سراوان در استان سیستان و بلوچستان، یک مامور پلیس کشته شد.
+بر اساس گزارش‌ها، سرنشینان مسلح یک خودروی سواری به سمت نیروهای امنیتی تیراندازی کردند که در نتیجه آن، ستوان سوم امیرحسین شهرکی جان خود را از دست داد.
+پلیس اعلام کرده افراد مهاجم تحت تعقیب قرار گرفته‌اند و طرح‌های امنیتی و انتظامی در مناطق اطراف در حال اجراست.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 241179
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_241179_1779294850.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️۶ جوان اهل شهرک اکباتان تهران که در ارتباط با پرونده قتل یک بسیجی به نام آرمان علی‌وردی بازداشت شده بودند، از قتل عمد تبرئه شده و حکم اعدام دریافت نکردند.
+
+خبرگزاری فارس روز چهارشنبه ۳۰ اردیبهشت اعلام کرد که شعبه ۱۳ دادگاه کیفری یک استان تهران که پیش‌تر حکم اعدام این شش جوان را صادر کرده بود، پس از نقض حکم در دیوان عالی، این بار با استناد به این‌که مشخص نیست ضربه منجر به کشته شدن علی‌وردی از سوی کدام‌یک از متهمان وارد شده، میلاد آرمون، علیرضا کفایی و امیرمحمد خوش‌اقبال را به اتهام «مشارکت در قتل عمد» به پرداخت دیه کامل و تحمل پنج سال حبس محکوم کرد. بر اساس این رای، علیرضا برمرزپورناک، حسین نعمتی و نوید نجاران نیز به دلیل این‌که مدرکی که ثابت کند ضربه‌ای به بدن آرمان علی‌وردی وارده کرده‌اند وجود نداشت، تبرئه شدند.
+
+بر اساس فقه اسلامی در صدور حکم قصاص برای قتل، فقط شخصی که ضربه کشنده را وارد کرده می‌تواند با خواست اولیای دم قصاص شود. بر این اساس در صورتی که مشخص نشود ضربه کشنده دقیقا توسط چه کسی وارد شده، امکان صدور حکم قصاص وجود ندارد.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 342005
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_342005_1779294851.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: President Donald Trump leaves a military academy crowd roaring after giving an unexpected shout-out to local hangout spot “Mr. G’s” and offering a "clean slate" to all Cadets facing disciplinary action over minor conduct infractions:
+
+“Some may have spent a little bit too much time at a place called Mr. G’s. I don't know what Mr. G’s is, I don't know what it is, but I don't like the sound of this. Where am I going with this one?!”
+
+"Mr. Superintendent, I hereby absolve all cadets who are on restriction for minor conduct infractions and even somewhat major infractions, effective immediately!"
+</div>
+
+## FoxNewsTwitter — post 342004
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_342004_1779294853.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+"I just hit him on the shoulder, I hurt my hand! It's like hitting a rock!"
+
+President Trump says he needs to check out the only Cadet who received perfect scores on his fitness tests in all four years at the Academy:
+
+"Wow, wow. We're not going to fight with him. I'm not fighting him. I'm not. This is not UFC. Please understand that, Thomas."
+</div>
+
+## ManotoTV — post 105692
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105692_1779294857.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+در پی تیراندازی افراد مسلح به نیروهای پلیس در یکی از محورهای شهرستان سراوان در استان سیستان و بلوچستان، یک مامور پلیس کشته شد.
+بر اساس گزارش‌ها، سرنشینان مسلح یک خودروی سواری به سمت نیروهای امنیتی تیراندازی کردند که در نتیجه آن، ستوان سوم امیرحسین شهرکی جان خود را از دست داد.
+پلیس اعلام کرده افراد مهاجم تحت تعقیب قرار گرفته‌اند و طرح‌های امنیتی و انتظامی در مناطق اطراف در حال اجراست.
+</div>
+
+## FarsiVOA — post 218232
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺سنتکام درباره محاصره دریایی جمهوری اسلامی: ۹۰ کشتی را وادار به تغییر مسیر و ۴ کشتی را غیر فعال کردیم
+
+▪️سنتکام در یک به‌روز‌رسانی تازه درباره محاصره دریایی جمهوری اسلامی، از افزایش تعداد شناورهایی که در جریان این عملیات وادار به تغییر مسیر شده و یا از کار افتاده‌اند، خبر داد.
+
+⬇️ بیشتر بخوانید:
+
+https://ir.voanews.com/a/ship-patrol-strait-of-hormuz-attack-helicopter/8151990.html/?nocach=1
+</div>
+
+## DW_Farsi — post 124934
+
+<div align="center">
+  <a href="telegram/content/DW_Farsi_124934_1779294858.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎥 هشدار به کاربران ایرانی؛ این برنامه‌ها را نصب نکنید!
+
+اپلیکیشن‌های جعلی اندرویدی کاربران ایرانی را در محیط تلگرام هدف قرار داده‌اند.
+این اپلیکیشن‌ها به عنوان وی‌پی‌ان، ابزارهای مرتبط با استارلینک یا فیلترشکن برای قربانیان ارسال می‌شوند و همراه با پیام‌هایی دوستانه.
+در اینجا نحوه محافظت در مقابل چنین بدافزارهایی را آورده‌ایم.
+
+@dw_farsi
+</div>
+
+## Persian_Trend_Official — post 14537
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_14537_1779294861.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴ترامپ :
+
+💢ما به آنها ضربه‌ای بسیار سخت زدیم. ممکن است مجبور شویم حتی سخت‌تر ضربه بزنیم — اما شاید هم نه.
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 14536
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_14536_1779294863.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💢ترامپ :
+
+💢همه چیز آنها از بین رفته است. تنها سوال این است که آیا ما می‌رویم و آن را تمام می‌کنیم، یا آن‌ها قرار است یک سند را امضا کنند؟
+
+💢ببینیم چه اتفاقی می‌افتد.
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## Persian_Trend_Official — post 14535
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 حمله مسلحانه در سراوان؛ یک نیروی امنیتی ایران کشته شد
+
+💢رسانه‌های ایرانی از وقوع حمله مسلحانه توسط عناصر تروریستی در شهر سراوان واقع در استان سیستان و بلوچستان خبر دادند.
+
+بر اساس گزارش‌های اولیه:
+
+▪️ در این حمله یک نیروی امنیتی ایران کشته شده است
+
+▪️ جزئیات بیشتری درباره تعداد مهاجمان یا تلفات احتمالی منتشر نشده
+
+▪️ نیروهای امنیتی عملیات تعقیب عاملان حمله را آغاز کرده‌اند
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## manototv — post 105692
+
+<div align="center">
+  <a href="telegram/content/manototv_105692_1779294864.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+در پی تیراندازی افراد مسلح به نیروهای پلیس در یکی از محورهای شهرستان سراوان در استان سیستان و بلوچستان، یک مامور پلیس کشته شد.
+بر اساس گزارش‌ها، سرنشینان مسلح یک خودروی سواری به سمت نیروهای امنیتی تیراندازی کردند که در نتیجه آن، ستوان سوم امیرحسین شهرکی جان خود را از دست داد.
+پلیس اعلام کرده افراد مهاجم تحت تعقیب قرار گرفته‌اند و طرح‌های امنیتی و انتظامی در مناطق اطراف در حال اجراست.
+</div>
+
+## alonews — post 121363
+
+<div align="center">
+  <a href="telegram/content/alonews_121363_1779294865.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: ونزوئلا ۲۰ سال پیش کشور واقعاً بزرگی بود — اما مسیر اشتباهی را رفت.
+
+
+🔴این مسیری است که آن‌ها دوست دارند این کشور را به آن سمت ببرند — برخی دیوانه‌ها می‌خواهند این کشور را به سمت چپ بسیار شدید ببرند و آن را نابود کنند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121362
+
+<div align="center">
+  <a href="telegram/content/alonews_121362_1779294868.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: ما عملاً قاچاق مواد مخدر از طریق دریا را متوقف کرده‌ایم. و حالا بخش آسان‌تر، یعنی زمین. این هم به همان سرعت انجام خواهد شد.
+
+
+🔴قاچاق مواد مخدر ۶۱٪ کاهش یافته است، اما ما می‌خواهیم آن را تقریباً به صفر برسانیم چون این مواد خانواده‌ها، افراد و زندگی‌های زیادی را نابود کرده‌اند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121361
+
+<div align="center">
+  <a href="telegram/content/alonews_121361_1779294870.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ : ببینید الان من میگم آیران من اونجوری نمیگم چون تلفظ درستش مشخصه ما برمیگردیم به آیران
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121360
+
+<div align="center">
+  <a href="telegram/content/alonews_121360_1779294873.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ : ما خیلی سخت بهشون ضربه زدیم شاید مجبور بشیم حتی سخت تر هم بزنیم ولی شاید هم نه!
+
+
+🔴سلطه آمریکا تو نیمکره غربی تحت هیچ شرایطی تهدید نخواهد شد ایران هم هرگز نباید سلاح هسته ای داشته باشه
+
+
+🔴 ما اجازه نمیدیم ایران سلاح هسته ای بگیره و کل خاورمیانه و اسرائیل رو نابود کنه و بعد بیاد سراغ شما و این اتفاق نمی اوفته
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/30 19:53
 ---
 
