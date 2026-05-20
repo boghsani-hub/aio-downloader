@@ -7,6 +7,166 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/30 22:44
+---
+
+## VahidOOnLine — post 241215
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⭕️ عراقچی: هر جا لازم باشد می‌جنگیم، هر جا لازم باشد مذاکره می‌کنیم
+
+♦️عباس عراقچی، وزیر امور خارجه جمهوری اسلامی اعلام کرد وزارت خارجه «هر جا لازم باشد می‌جنگد و هر جا لازم باشد مذاکره می‌کند» و ماموریت خود را در هماهنگی کامل با اهداف کلان نظام دانست.
+عراقچی روز چهارشنبه در مراسم بزرگداشت دو وزیر پیشین امور خارجه، کمال خرازی و حسین امیرعبداللهیان، گفت دستگاه دیپلماسی خود را جدا از دیگر نهادهای کشور نمی‌داند و در صورت لزوم، هم برای مذاکره و هم برای مقابله آماده است.
+او همچنین گفت اگر منافع کشور ایجاب کند، وزارت خارجه برای گفتگو و مذاکره آماده خواهد شد، اما «با همان قدرتی» که نیروهای مسلح برای دفاع از کشور آماده می‌شوند.
+عراقچی در بخش دیگری از سخنانش از هماهنگی مستمر میان دستگاه دیپلماسی و فرماندهان نیروهای مسلح خبر داد و گفت او و فرماندهان نظامی روزانه در نشست‌های مختلف شرکت می‌کنند و همگی «یک هدف مشترک» را دنبال می‌کنند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 11788
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ: چند روز منتظر پاسخ ایران می‌مانیم
+
+ایران یک کشور شکست‌خورده است و ما امیدواریم بتوانیم با آنها توافق کنیم که این برای همه عالی خواهد بود.
+
+من هیچ تحریمی را علیه ایران تا زمانی که به توافق برسیم رفع نخواهم کرد. تا زمانی که ایران توافق را امضا نکند به ایران هیچ معافیت نفتی نخواهم داد و پیشنهادی هم برای انجام این کار نداده‌ایم.
+
+اگر پاسخ‌های درست را نگیریم، اوضاع خیلی سریع پیش می‌رود. همه ما آماده‌ایم. باید پاسخ‌های درست را به دست آوریم.
+@withyashar
+</div>
+
+## mwarmonitor — post 9377
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✈️🚨 پرواز یک جنگنده در ارتفاع پایین در آسمان استان موصل در شمال عراق.
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 342026
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_342026_1779304448.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: President Trump reveals the strategy behind his back-and-forth negotiating style with the Iranian regime as the region waits to see if a new waves of fighting will begin:
+
+"I never get tired. What I like to do, if I can save war by waiting a couple of days, so I can save people being killed by waiting a couple of days, I think it's a great thing to do."
+</div>
+
+## FoxNewsTwitter — post 342025
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_342025_1779304450.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+JUST IN: President Trump dismissing growing fears and public anxiety over Artificial Intelligence disrupting the job market throughout the country.
+
+"I'll tell you, AI has been amazing, because right now we have more jobs, more people working right now in the United States by far, than we ever had before."
+</div>
+
+## IranIntlTV — post 338139
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_338139_1779304452.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حقیقت یا دروغ؟ طرح آمریکا برای حکومت احمدی‌نژاد بر ایران؟!
+
+چشم‌انداز با مهدی مهدوی‌آزاد
+
+نسخه کامل این برنامه در یوتیوب:
+https://youtu.be/cfVdKzc7RL8
+@iranintltv
+</div>
+
+## IranIntlTV — post 338138
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/338138" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی تیتراول با نیوشا صارمی: ترامپ: یا امضا می‌کنید یا ما کار را تمام می‌کنیم؛ قالیباف هشدار جنگ داد
+@iranintlTV
+</div>
+
+## IranianMinds — post 20468
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ درباره ایران: اگر پاسخ‌های درست را نگیریم، اوضاع خیلی سریع پیش می‌رود. همه ما آماده‌ایم. باید پاسخ‌های درست را به دست آوریم. @IranianMinds
+</div>
+
+## Dirty_Kids — post 389834
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ما از اینا عبور کردیم
+این کصشرا رو دوباره مد نکنید!
+شهر شبیه کوفه و کنعان میشه.
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389833
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389833_1779304456.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 صحبتای جنجالی آخوند رسایی، نماینده مجلس، قبل از کشته شدن علی خامنه‌ای:
+
+
+بعضیا هستن که میگن علی خامنه‌ای داره تلاش میکنه پسرش رو جانشین خودش کنه ولی اگه کسی ذره‌ای عقل داشته باشه به حرفی که اینا میزنن میخنده.
+اصلا ساز و کار تعیین رهبر، شرایط کسی که میخواد رهبر بشه، باید طرف سابقه کار اجرایی داشته باشه.
+
+بنابراین اصلا و ابدا چنین چیزی امکان نداره.
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 121406
+
+<div align="center">
+  <a href="telegram/content/alonews_121406_1779304457.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈خبرنگار : قصد داری به اونا ( ایران) حمله کنی‌؟
+
+
+🔴ترامپ : چرا باید اینو بهت بگم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121405
+
+<div align="center">
+  <a href="telegram/content/alonews_121405_1779304458.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈خبرنگار : از این رفت و برگشت با ایران خسته نمیشی؟
+
+
+🔴 ترامپ : من هیچوقت خسته نمیشم ولی اگه با چند روز صبر کردن بشه جلوی جنگ و کشته شدن مردم رو گرفت کار خوبیه
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/30 22:35
 ---
 
