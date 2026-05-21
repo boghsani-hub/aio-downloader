@@ -15,6 +15,10 @@ on:
         description: "📄 Save as PDF (with extracted links)"
         type: boolean
         default: true
+      upload_as_release:
+        description: 'Upload files as a GitHub Release (uncheck = split push to repo)'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -85,9 +89,56 @@ jobs:
             mv -- *.pdf website/ 2>/dev/null || true
           done <<< "${{ github.event.inputs.urls }}"
 
-      # ── Commit & push only 'website/' folder ────
-      - name: "Commit and push captures"
+      # ── Archive captures into split ZIP(s) ─────
+      - name: "Archive captures"
         if: always() && (github.event.inputs.capture_mhtml == 'true' || github.event.inputs.capture_pdf == 'true')
+        id: archive
+        run: |
+          UPLOAD_AS_RELEASE="${{ inputs.upload_as_release }}"
+          OUTPUT_DIR="website"
+
+          # If no captures exist, skip
+          if [ ! -d "$OUTPUT_DIR" ] || [ -z "$(ls -A "$OUTPUT_DIR" 2>/dev/null)" ]; then
+            echo "No captures to archive."
+            exit 0
+          fi
+
+          # Move current captures to a temp folder so we can zip them cleanly
+          TEMP_DIR="captures_tmp"
+          mv "$OUTPUT_DIR" "$TEMP_DIR"
+          mkdir -p "$OUTPUT_DIR"
+
+          RANDSTR=$(tr -dc 'a-z0-9' < /dev/urandom | head -c 5)
+          ZIP_NAME="website-capture-${RANDSTR}.zip"
+          echo "Archive name: ${ZIP_NAME}"
+
+          if [ "$UPLOAD_AS_RELEASE" = "true" ]; then
+            # Create unsplit ZIP, split only if > 1950 MiB
+            (cd "$TEMP_DIR" && zip -r "../${OUTPUT_DIR}/${ZIP_NAME}" .)
+            FULLZIP="${OUTPUT_DIR}/${ZIP_NAME}"
+            SIZE=$(stat -c%s "$FULLZIP" 2>/dev/null || echo 0)
+            if [ "$SIZE" -gt 2044723200 ]; then
+              echo "ZIP larger than 1950 MiB, splitting"
+              rm "$FULLZIP"
+              (cd "$TEMP_DIR" && zip -r -s 1950m "../${OUTPUT_DIR}/${ZIP_NAME}" .)
+            fi
+          else
+            # split_push: always 99 MB parts
+            (cd "$TEMP_DIR" && zip -r -s 99m "../${OUTPUT_DIR}/${ZIP_NAME}" .)
+          fi
+
+          rm -rf "$TEMP_DIR"
+
+          echo "Archive contents:"
+          ls -lh "$OUTPUT_DIR"
+
+          # Asset list for release
+          ls -1 "$OUTPUT_DIR" > "${OUTPUT_DIR}_assets.txt"
+          cat "${OUTPUT_DIR}_assets.txt"
+
+      # ── Push archives to repo (split_push) ─────
+      - name: "Commit and push captures"
+        if: always() && (github.event.inputs.capture_mhtml == 'true' || github.event.inputs.capture_pdf == 'true') && (github.event.inputs.upload_as_release == 'false')
         env:
           BRANCH: ${{ github.ref_name }}
         run: |
@@ -95,11 +146,11 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config http.postBuffer 524288000
 
-          # Add the website folder only if it has files
-          if [ -d "website" ] && [ "$(ls -A website 2>/dev/null)" ]; then
-            git add website/
+          OUTPUT_DIR="website"
+          if [ -d "$OUTPUT_DIR" ] && [ "$(ls -A "$OUTPUT_DIR" 2>/dev/null)" ]; then
+            git add "$OUTPUT_DIR/"
           else
-            echo "No files found in website/ – skipping commit."
+            echo "No files found in $OUTPUT_DIR – skipping commit."
             exit 0
           fi
 
@@ -108,7 +159,7 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Add captures for multiple URLs [skip ci]"
+          git commit -m "Add website captures (ZIP) [skip ci]"
 
           RETRIES=5
           for i in $(seq 1 $RETRIES); do
@@ -127,3 +178,45 @@ jobs:
               fi
             fi
           done
+
+      # ── Create GitHub Release (release method) ──
+      - name: "Create Release and upload assets"
+        if: always() && (github.event.inputs.capture_mhtml == 'true' || github.event.inputs.capture_pdf == 'true') && (github.event.inputs.upload_as_release == 'true')
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          OUTPUT_DIR="website"
+          ASSETS_FILE="${OUTPUT_DIR}_assets.txt"
+
+          if [ ! -s "$ASSETS_FILE" ]; then
+            echo "No assets to release."
+            exit 0
+          fi
+
+          RAND5=$(tr -dc 'a-z' < /dev/urandom | head -c 5)
+          TAG="website-capture-${RAND5}"
+          echo "Creating release tag: $TAG"
+
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
+          git tag "$TAG" -m "Website capture release"
+          git push origin "$TAG"
+
+          ASSET_ARGS=""
+          while IFS= read -r file; do
+            ASSET_ARGS="$ASSET_ARGS ${OUTPUT_DIR}/$file"
+          done < "$ASSETS_FILE"
+
+          gh release create "$TAG" $ASSET_ARGS \
+            --title "website-capture-${RAND5}" \
+            --notes "Automated release from Website Capture workflow." \
+            --target "${{ github.ref_name }}"
+
+          echo "Release '$TAG' created with assets."
+
+      # ── Cleanup temporary files ─────────────────
+      - name: "Cleanup"
+        if: always()
+        run: |
+          rm -rf captures_tmp website_assets.txt 2>/dev/null || true
