@@ -7,6 +7,108 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/01 00:03
+---
+
+## VahidOOnLine — post 241400
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_241400_1779395599.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️خبرگزاری رویترز به نقل از یک منبع ارشد ایرانی گزارش داد هنوز هیچ توافقی میان تهران و واشنگتن حاصل نشده، اما اختلاف‌ها در مذاکرات کاهش یافته است.
+این منبع افزود غنی‌سازی اورانیوم و کنترل جمهوری اسلامی بر تنگه هرمز همچنان از جمله موارد اصلی اختلاف میان دو طرف به شمار می‌رود.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## IranIntlTV — post 338294
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_338294_1779395599.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ می‌گوید آمریکا «کنترل کامل» تنگه هرمز را در دست دارد و محاصره دریایی علیه جمهوری اسلامی «صد درصد موفق» بوده است. او همچنین گفت واشینگتن اورانیوم غنی‌شده ایران را «می‌گیرد و نابود می‌کند».
+@iranintltv
+</div>
+
+## FarsiVOA — post 218329
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_218329_1779395601.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️عمار ملکی در برنامه تفسیر خبر: مجتبی خامنه‌ای رهبر یک گروه تروریستی است
+@FarsiVOA
+</div>
+
+## BBCPersian — post 281725
+
+<div align="center">
+  <img src="telegram/content/BBCPersian_281725_1779395601.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻وزارت دارایی آمریکا از تحریم ۹ نفر از جمله محمدرضا شیبانی رئوف،‌ سفیر ایران در لبنان خبر داد. دفتر کنترل دارایی‌های خارجی وزارت دارایی آمریکا می‌گوید که این افراد در روند صلح لبنان مانع تراشی کردند و مانع اجرای خلع سلاح حزب‌الله شدند.
+
+محمدرضا شیبانی رئوف،‌ سفیر ایران در لبنان است اما حدود دو ماه پیش، وزارت خارجه لبنان او را «عنصر نامطلوب» خواند و از لبنان اخراج کرد.
+
+وزارت خارجه لبنان آقای شیبانی را به بیان اظهاراتی «مداخله‌جویانه در سیاست داخلی لبنان» متهم کرده بود. در آن مقطع زمانی، او حاضر به ترک لبنان نشد و وزارت خارجه ایران هم گفت که او به کارش ادامه می‌دهد.
+
+عکسی از او در مراسم چهلم علی خامنه‌ای که روز دوم اردیبهشت در سفارت ایران در بیروت برگزار شده بود، منتشر شده است.
+
+آمریکا می‌گوید که افراد تحریم شده که از مقامات لبنانی همسو با حزب‌الله هستند در پارلمان،‌ ارتش و نهادهای امنیتی این کشور هستند و « در تلاشند نفوذ این گروه تروریستی تحت حمایت ایران را بر نهادهای کلیدی دولتی لبنان حفظ کنند.»
+
+لینک خبر کامل:
+https://bbc.in/4nFo62q
+📷EPA
+
+@BBCPersian
+</div>
+
+## alonews — post 121665
+
+<div align="center">
+  <a href="telegram/content/alonews_121665_1779395602.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈گرینلندی‌ها در نوک با پلاکاردهایی که روی آن نوشته شده بود «بله به ناتو، نه به پدوفیلیا» دیده شدند.
+
+
+🔴 یکی از این پلاکاردها توسط یک معترض در بیرون کنسولگری جدید آمریکا رها شده بود
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121662
+
+<div align="center">
+  <a href="telegram/content/alonews_121662_1779395602.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈گرینلندی‌ها امروز در مراسم افتتاحیه کنسولگری جدید آمریکا در نوک تجمع کردند.
+
+
+🔴صدای مردم گرینلند شنیده می‌شود که شعار می‌دهند: «برو خانه، آمریکا.»
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121661
+
+<div align="center">
+  <a href="telegram/content/alonews_121661_1779395603.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈بر اساس گزارش اکسیوس، تنش اصلی بر سر صلح میان آمریکا و ایران، مخالفت نتانیاهو با هرگونه توافق است. او خواستار ادامه جنگ و شکست کامل ایران است، در حالی که ترامپ از مذاکره و آتش‌بس ۳۰ روزه حمایت می‌کند.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/31 23:54
 ---
 
